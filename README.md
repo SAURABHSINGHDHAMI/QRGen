@@ -18,5 +18,3 @@ pip install image
 <p align="center">
   <img src="https://github.com/SAURABHSINGHDHAMI/QRGen/blob/main/test.png" />
 </p>
-
-_Example screenshot of QRGen
